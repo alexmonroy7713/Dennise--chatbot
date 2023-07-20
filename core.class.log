@@ -1,0 +1,23 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5214521816763@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB69E3EB93BA18AAEA5',
+    participant: undefined
+  },
+  messageTimestamp: 1689786291,
+  pushName: 'Kirby Mondragon',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Ya lo probe y funciona',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ya lo probe y funciona',
+  from: '5214521816763'
+}
